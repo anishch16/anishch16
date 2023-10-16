@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Anish Chaulagain, currently studying Bachelor in Computer Science and Information Technology.
-- 👀 I’m interested in Application development.
-- 🌱 I’m currently learning flutter framework.
-- 💞️ currently in learning phase so if any one is interested then can work together in future.
+- 👋 Hi, I’m Anish Chaulagain.
+I am currently studying for a Bachelor in Computer Science and Information Technology. Along with the Flutter framework.
 - 📫 To contact me just dm me on twitter (https://twitter.com/anish_ch16)
