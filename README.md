@@ -11,3 +11,7 @@ Building responsive apps.
 Managing state using GetX, Bloc, or Cubit.
 Working with REST APIs and handling JSON data.
 Passionate about optimizing performance and improving UI/UX design.
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=anishch16&label=Profile%20Views&pretty=false" />
+</a>
