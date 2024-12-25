@@ -1,16 +1,55 @@
-👋 Hi, I’m Anish Chaulagain
+# 👋 Hi, I'm Anish Chaulagain
 
-I'm a passionate Flutter developer with over few years of experience in building beautiful, responsive, and scalable mobile applications. I enjoy working on cross-platform apps that offer great user experiences.
+![Profile Views](https://komarev.com/ghpvc/?username=anishchaulagain&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/anishchaulagain?style=social)
 
-What I do:
-📱 Mobile Development: Specializing in Flutter, I build apps with clean UI/UX and efficient performance.
-🛠 Tech Stack: My core stack includes Flutter, Dart, and tools like GetX, Bloc, Cubit and GoRouter for state management and navigation. I’m also skilled in integrating RESTful APIs.
-🎯 Goal-Oriented: I strive to continuously improve my skills and stay updated with the latest in Flutter and mobile development.
-Skills & Interests:
-Building responsive apps.
-Managing state using GetX, Bloc, or Cubit.
-Working with REST APIs and handling JSON data.
-Passionate about optimizing performance and improving UI/UX design.
+## 🚀 About Me
+**Flutter Developer**  
+_"Passionate Flutter Developer dedicated to crafting exceptional mobile experiences through innovation and collaboration."_
+
+📍 **Kathmandu 44600, Nepal**  
+📱 **Phone:** +9779865499496  
+📧 **Email:** [chaulagainanish16@gmail.com](mailto:chaulagainanish16@gmail.com)  
+🌐 **LinkedIn:** [linkedin.com/in/anish-c-a9a202218](https://www.linkedin.com/in/anish-c-a9a202218/)
+
+---
+
+## 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishchaulagain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchaulagain&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💻 Projects
+- 🌟 [**Gantabya App**](#) - A trip planner app built with Flutter.
+- 🌟 [**Taycoo**](#) - A feature-rich mobile app with barcode scanning and dynamic navigation.
+
+---
+
+## 🌐 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-c-a9a202218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chaulagainanish16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🌟 Fun Fact
+> "Flutter developers don’t just build apps, they craft experiences!" ✨
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=anishch16&label=Profile%20Views&pretty=false" />
