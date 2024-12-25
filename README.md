@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anish Chaulagain
 
-![Profile Views](https://komarev.com/ghpvc/?username=anishchaulagain&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/anishchaulagain?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=anishch16&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/anishch16?style=social)
 
 ## 🚀 About Me
 **Flutter Developer**  
