@@ -25,6 +25,30 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 
 ---
 
+## 💻 Skills:
+
+- **State Management**:
+  ![GetX](https://img.shields.io/badge/GetX-0A74D6?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Bloc](https://img.shields.io/badge/Bloc-0073E6?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Cubit](https://img.shields.io/badge/Cubit-0277BD?style=for-the-badge&logo=flutter&logoColor=white)
+
+- **Version Control**:
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- **Architecture**:
+  ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00B0B9?style=for-the-badge&logo=flutter&logoColor=white)
+  ![MVC](https://img.shields.io/badge/MVC-FF69B4?style=for-the-badge&logo=flutter&logoColor=white)
+
+- **API Integration**:
+  ![HTTP](https://img.shields.io/badge/HTTP-0078D4?style=for-the-badge&logo=http&logoColor=white)
+  ![Dio](https://img.shields.io/badge/Dio-009688?style=for-the-badge&logo=flutter&logoColor=white)
+
+- **Agile Development**:
+  ![Agile](https://img.shields.io/badge/Agile-DF6800?style=for-the-badge&logo=atlassian&logoColor=white)
+  ![Scrum](https://img.shields.io/badge/Scrum-DC6C43?style=for-the-badge&logo=scrum&logoColor=white)
+
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anishch16&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -73,15 +97,6 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 - Used Clean architecture.  
 
 [a-OK on Play Store](https://play.google.com/store/apps/details?id=com.a_ok&pcampaignid=web_share)
-
----
-
-## Skills
-- **State Management**: GetX, Bloc, Cubit  
-- **Version Control**: GitHub  
-- **Architecture**: MVVM, Clean Architecture, MVC  
-- **API Integration**: HTTP, Dio  
-- **Agile Development**: Agile methodologies and Scrum
 
 ---
 
