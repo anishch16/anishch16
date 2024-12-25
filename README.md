@@ -33,9 +33,55 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 
 ---
 
-## 💻 Projects
-- 🌟 [**Gantabya App**](#) - A trip planner app built with Flutter.
-- 🌟 [**Taycoo**](#) - A feature-rich mobile app with barcode scanning and dynamic navigation.
+## Projects
+
+### DishHome
+**Location**: Kathmandu  
+**Duration**: Apr, 2021 - Present  
+- Used GetX for state management.  
+- Implemented MVC architecture.  
+- Integrated HTTP for REST API integration.  
+- Integrated payment methods.  
+
+[DishHome on Play Store](https://play.google.com/store/apps/details?id=com.shirantech.dishhome&hl=en)
+
+---
+
+### AshaConnect
+**Description**: A mobile application that helps CHW collect health-related data in rural areas.  
+- Used GetX for state management & SQLite for local data storage.  
+- Integrated HTTP for REST API.  
+
+[AshaConnect on Play Store](https://play.google.com/store/apps/details?id=com.asha.ashaconnect&pcampaignid=web_share)
+
+---
+
+### Kilindar
+**Description**: A mobile application that helps buy bus tickets all over Nepal.  
+- Implemented visually appealing and user-friendly interfaces.  
+- Used MVVM clean architecture.  
+- Integrated Dio for REST API.  
+
+[Kilindar on Play Store](https://play.google.com/store/apps/details?id=com.kilindar.kilindar_user)
+
+---
+
+### a-OK: Act of Kindness
+**Description**: A mobile application to express gratitude by sharing coffee.  
+- Used Bloc/Cubit for state management.  
+- Implemented visually appealing and user-friendly interfaces.  
+- Used Clean architecture.  
+
+[a-OK on Play Store](https://play.google.com/store/apps/details?id=com.a_ok&pcampaignid=web_share)
+
+---
+
+## Skills
+- **State Management**: GetX, Bloc, Cubit  
+- **Version Control**: GitHub  
+- **Architecture**: MVVM, Clean Architecture, MVC  
+- **API Integration**: HTTP, Dio  
+- **Agile Development**: Agile methodologies and Scrum
 
 ---
 
