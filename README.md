@@ -49,8 +49,3 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 
 ## 🌟 Fun Fact
 > "Flutter developers don’t just build apps, they craft experiences!" ✨
-
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=anishch16&label=Profile%20Views&pretty=false" />
-</a>
