@@ -91,6 +91,7 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 ---
 
 ### a-OK: Act of Kindness
+![a-OK](https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Play_Store_icon_2016.png)
 **Description**: A mobile application to express gratitude by sharing coffee.  
 - Used Bloc/Cubit for state management.  
 - Implemented visually appealing and user-friendly interfaces.  
