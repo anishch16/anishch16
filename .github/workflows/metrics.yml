@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Updates every night at midnight
+  workflow_dispatch: # Allows you to click a button to update it now
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Your personal account token (automatic)
+          
+          # Plugin configuration
+          base: header, activity, community, repositories, metadata
+          user: anishch16
+          
+          # This pulls in the work data
+          extras_tokens: ${{ secrets.ANISH_WORK_TOKEN }}
+          additional_accounts: anishchaulagain16 # Put your work username here
+          
+          # Visuals
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
