@@ -1,22 +1,25 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Updates every night at midnight
-  workflow_dispatch: # Allows you to click a button to update it now
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Your personal account token (automatic)
+          # Use your personal token to allow the action to save the file
+          token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Plugin configuration
-          base: header, activity, community, repositories, metadata
           user: anishch16
+          base: header, activity, community, repositories, metadata
           
-          # This pulls in the work data
+          # Use the Work Token as the 'Extra' token
           extras_tokens: ${{ secrets.ANISH_WORK_TOKEN }}
-          additional_accounts: anishchaulagain16 # Put your work username here
+          additional_accounts: anishchaulagain16
+          
+          # CRITICAL: Tell the plugin to look at private repositories
+          config_allow_authenticated_users_only: yes
           
           # Visuals
           plugin_isocalendar: yes
