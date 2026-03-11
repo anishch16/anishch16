@@ -8,20 +8,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # This token is for your personal account (to save the image)
           token: ${{ secrets.GITHUB_TOKEN }}
-          
           user: anishch16
-          base: header, activity, community, repositories, metadata
           
-          # Linking the Work Account
-          # We provide the token stored in your Secrets
+          # Your Work Token from Secrets
           extra_plugin_token: ${{ secrets.ANISH_WORK_TOKEN }}
+          
+          # This tells the action to fetch data for both
           additional_accounts: anishchaulagain16
           
-          # This ensures private commits from your work are counted
-          config_import_reported: yes
-          
-          # Visuals: The Combined Calendar
+          # Visual Settings
+          base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          
+          # IMPORTANT: This flag forces the calendar to include the extra account commits
+          plugin_isocalendar_extracommits: yes
+          
+          # Required to access private data from both accounts
+          config_allow_authenticated_users_only: yes
+          config_import_reported: yes
