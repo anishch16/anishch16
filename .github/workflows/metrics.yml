@@ -8,19 +8,20 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Use your personal token to allow the action to save the file
+          # This token is for your personal account (to save the image)
           token: ${{ secrets.GITHUB_TOKEN }}
           
           user: anishch16
           base: header, activity, community, repositories, metadata
           
-          # Use the Work Token as the 'Extra' token
-          extras_tokens: ${{ secrets.ANISH_WORK_TOKEN }}
+          # Linking the Work Account
+          # We provide the token stored in your Secrets
+          extra_plugin_token: ${{ secrets.ANISH_WORK_TOKEN }}
           additional_accounts: anishchaulagain16
           
-          # CRITICAL: Tell the plugin to look at private repositories
-          config_allow_authenticated_users_only: yes
+          # This ensures private commits from your work are counted
+          config_import_reported: yes
           
-          # Visuals
+          # Visuals: The Combined Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
