@@ -90,3 +90,4 @@ _"Passionate Flutter Developer dedicated to crafting exceptional mobile experien
 </p>
 
 ---
+![My GitHub Stats](github-metrics.svg)
